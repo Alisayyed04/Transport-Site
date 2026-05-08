@@ -76,7 +76,7 @@ export default function Home() {
                         </div>
 
                         <h1 className="mt-6 max-w-3xl text-5xl font-semibold tracking-tight text-[#191512] md:text-7xl">
-                            Built like a premium platform.
+                            Premium platform.
                             <span className="block text-[#9a5b38]">Run like a railway.</span>
                         </h1>
 

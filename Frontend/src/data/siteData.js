@@ -1,11 +1,10 @@
 export const trustPoints = [
-  "Premium white + rust railway aesthetic",
-  "Smooth page navigation across sections",
-  "Cinematic click-to-enter veil screen",
-  "Responsive layout for desktop and mobile",
-  "Designed to plug into App.jsx directly",
+  "Fast and streamlined railway parcel booking workflow",
+  "Live tracking updates for better shipment visibility",
+  "Reliable parcel movement through trusted rail networks",
+  "Responsive platform optimized for desktop and mobile",
+  "Built for scalable logistics, admin, and tracking systems",
 ];
-
 export const homeStats = [
   ["2012", "Founded"],
   ["Rail only", "Transport focus"],
@@ -14,27 +13,27 @@ export const homeStats = [
 
 export const aboutHighlights = [
   {
-    title: "Customer clarity",
-    desc: "Simple layouts that make booking and tracking feel easy.",
+    title: "Fast parcel movement",
+    desc: "Quick booking workflows and efficient railway handling for faster deliveries.",
   },
   {
-    title: "Operational trust",
-    desc: "A visual style that looks serious, real, and well managed.",
+    title: "Reliable railway network",
+    desc: "Built around trusted railway logistics with structured parcel movement across routes.",
   },
   {
-    title: "Premium presentation",
-    desc: "A clean white base with rail-inspired warmth and depth.",
+    title: "Real-time coordination",
+    desc: "Smooth communication between booking, tracking, and delivery operations.",
   },
   {
-    title: "Project-ready structure",
-    desc: "Easy to extend into routes, dashboards, and admin pages.",
+    title: "Secure parcel handling",
+    desc: "Professional handling processes designed to keep shipments safe and organized.",
   },
 ];
 
 export const faqs = [
   {
     q: "How does the booking flow work?",
-    a: "Users submit parcel details, pickup and destination info, and contact details. The backend can later handle confirmation and tracking.",
+    a: "Users submit parcel details, pickup and destination info, and contact details. The admin will then call the customers and give a quote and will confirm the booking",
   },
   {
     q: "Can this be split into real pages later?",
@@ -42,12 +41,12 @@ export const faqs = [
   },
   {
     q: "How quickly will I be contacted after submitting shipment details?",
-    a: "You can respond directly through your backend form, WhatsApp, or call support. The contact page is ready for that connection.",
+    a: "You can respond directly through your backend form, WhatsApp, or call support. The contact page is ready for that connection. But we recommend you calling us for the fastest action",
   },
 ];
 
 export const contactInfo = {
-  phone: "+91 8855057086",
+  phone: "+91 9156888532",
   email: "alisayyed125540@gmail.com",
 };
 

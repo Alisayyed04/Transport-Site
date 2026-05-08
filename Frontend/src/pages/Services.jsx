@@ -51,7 +51,7 @@ export default function Services() {
                         Services
                     </p>
                     <h2 className="mt-4 text-3xl font-semibold tracking-tight text-[#1f1a16] md:text-4xl">
-                        Everything your transport homepage should communicate.
+                        Everything about railway transport.
                     </h2>
                 </div>
 

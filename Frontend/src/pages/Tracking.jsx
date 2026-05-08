@@ -9,14 +9,14 @@ export default function Tracking() {
                 <div className="grid gap-6 lg:grid-cols-[1fr_0.9fr]">
                     <div className="rounded-[2rem] border border-[#eadfd4] bg-white p-8 shadow-[0_12px_40px_rgba(67,42,18,0.04)]">
                         <p className="text-xs font-semibold uppercase tracking-[0.28em] text-[#9a5b38]">
-                            Tracking
+                            Railway tracking
                         </p>
                         <h2 className="mt-4 text-3xl font-semibold tracking-tight text-[#1f1a16] md:text-4xl">
                             Live tracking view for shipments in transit.
                         </h2>
                         <p className="mt-4 max-w-2xl text-base leading-8 text-[#5f544b]">
-                            This page matches the same premium system styling as the home page, but is now focused
-                            on tracking, ETA, and parcel movement status.
+                            Monitor parcel movement, route progress, and transit updates through a
+                            reliable railway logistics system designed for speed and operational efficiency.
                         </p>
 
                         <div className="mt-8 grid gap-4 sm:grid-cols-2">
@@ -96,11 +96,11 @@ export default function Tracking() {
                         <div className="mt-6 rounded-2xl border border-[#eadfd4] bg-white p-4 text-sm leading-7 text-[#5f544b]">
                             <div className="flex items-center gap-2 font-semibold text-[#1f1a16]">
                                 <Clock3 className="h-4 w-4 text-[#9a5b38]" />
-                                ETA and status can later connect to your backend.
+                                Reliable ETA updates with organized railway dispatch tracking.
                             </div>
                             <p className="mt-2">
-                                The layout is already ready for live API data, so you can replace the sample values
-                                without changing the design.
+                                Every shipment passes through monitored transit stages to ensure
+                                timely movement, secure handling, and dependable delivery coordination.
                             </p>
                         </div>
                     </div>
